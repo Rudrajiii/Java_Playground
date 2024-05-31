@@ -27,5 +27,13 @@ class test {
         System.out.println((int)val);
         System.out.println(val);
 
+        int name = 0;
+        int res = 0;
+        res = switch(name){
+            case 1 -> 1;
+            default -> 0;
+        };
+        System.out.println(res);
+
     }
 }
