@@ -1,3 +1,5 @@
+import java.util.concurrent.Flow.Publisher;
+
 class Demo{
     int age;
     int money;
@@ -7,6 +9,11 @@ class Demo{
         money = 0;
         this.time = time;
         System.out.println("Constructor called");
+    }
+}
+class Demo2{
+    public Demo2(){
+        System.out.println("Constructor2 called");
     }
 }
 public class constructor {
@@ -19,6 +26,7 @@ public class constructor {
         // new Demo(90);
         // new Demo(100); --> create a new object 
         //in heap memory each time
-        
+        Demo2 b = new Demo2();
+        System.out.println(b);
     }
 }
