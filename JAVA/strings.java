@@ -1,3 +1,4 @@
+package JAVA;
 public class strings{
     public static void main(String[] args){
         //Strings are not mutable in java

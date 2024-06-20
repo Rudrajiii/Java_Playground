@@ -1,3 +1,4 @@
+package JAVA;
 class Students{
     String name;
     int marks;
