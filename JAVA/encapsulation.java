@@ -1,3 +1,4 @@
+package JAVA;
 class Human{
     private int age;
     private String name;

@@ -1,3 +1,4 @@
+package JAVA;
 public class inher{
     public static void main(String[] args) {
         AdvC operCalc = new AdvC();

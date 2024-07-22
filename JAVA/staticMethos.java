@@ -1,3 +1,4 @@
+package JAVA;
 class Mobile{
     String brand;
     static int price;

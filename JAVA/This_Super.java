@@ -1,4 +1,4 @@
-
+package JAVA;
 class A{
     public A(){
         System.out.println("Inside A");

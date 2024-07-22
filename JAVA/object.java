@@ -1,3 +1,4 @@
+package JAVA;
 class calculate {
     public int add(int n1 , int n2) {
         int fetch_value = n1 + n2;
