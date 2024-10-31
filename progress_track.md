@@ -1,0 +1,32 @@
+## Progress Track
+- variables ✅
+- datatypes ✅
+- type casting ✅
+- operators ✅ 
+- strings ✅
+- math ✅ 
+- booleans ✅
+- conditionals statements ✅
+- switch ✅
+- while loops ✅
+- for loops ✅
+- break / continue ✅
+- Arrays ✅
+- Methods ✅
+- Method Overloading ✅
+- JaggedArrays ✅
+- String ✅
+- Mutable String vs Immutable String ✅
+- StringBuffer vs StringBuilder ✅
+- Static Variables ✅
+- Static Methods ✅
+- Static Blocks ✅
+- Encapsulation ✅
+- Getters & Setters ✅
+- This Keyword 
+- Constructor 
+- Default vs Parameterized Constructor 
+- Anonymous Object 
+- Inheritance 
+
+
